@@ -1,0 +1,11 @@
+langchain
+sentence_transformers
+torch
+pypdf
+pandas
+PyMuPDF
+streamlit
+qdrant-client
+langchain-groq
+python-dotenv
+langchain-community
